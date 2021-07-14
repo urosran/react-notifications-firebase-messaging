@@ -1,4 +1,4 @@
-#React notifications via Firebase Messaging
+# React notifications via Firebase Messaging
 
 1. pull the repo 
 2. run `yarn install`
